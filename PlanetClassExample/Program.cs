@@ -27,5 +27,11 @@ namespace PlanetClassExample
 
             ship2.GetShipName();
         }
+
+
+        public void NewMethod()
+        {
+            System.Console.WriteLine("Does something cool!");
+        }
     }
 }
