@@ -33,5 +33,10 @@ namespace PlanetClassExample
         {
             System.Console.WriteLine("Does something cool!");
         }
+
+        public void secondMethod()
+        {
+            System.Console.WriteLine("Does something cool!");
+        }
     }
 }
